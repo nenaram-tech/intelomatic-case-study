@@ -1,0 +1,1 @@
+# intelomatic-case-study
